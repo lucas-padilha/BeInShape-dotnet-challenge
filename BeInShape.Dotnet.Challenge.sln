@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BeInShape-Events", "BeInSha
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BeinShape-Memory", "BeInShape-Memory\BeinShape-Memory.csproj", "{C8F5698A-B569-4DCE-855B-E38B1CA8356C}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BeInShape-Tasks", "BeInShape-Tasks\BeInShape-Tasks.csproj", "{8636044E-ECB8-4C0B-B000-C46CF9EF4707}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -24,5 +26,9 @@ Global
 		{C8F5698A-B569-4DCE-855B-E38B1CA8356C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C8F5698A-B569-4DCE-855B-E38B1CA8356C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C8F5698A-B569-4DCE-855B-E38B1CA8356C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8636044E-ECB8-4C0B-B000-C46CF9EF4707}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8636044E-ECB8-4C0B-B000-C46CF9EF4707}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8636044E-ECB8-4C0B-B000-C46CF9EF4707}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8636044E-ECB8-4C0B-B000-C46CF9EF4707}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
